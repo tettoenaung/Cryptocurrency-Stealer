@@ -77,3 +77,4 @@ namespace Stealer
         public static string mutex = "asuhdvaystdvytasdvtyasvdfctyasd";
     }
 }
+
